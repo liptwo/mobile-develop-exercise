@@ -28,8 +28,9 @@ export default function App() {
       />
 
       {/* Name */}
-      <Text style={styles.name}>Văn Hình</Text>
-      <Text style={styles.location}>UTH </Text>
+      <Text style={styles.name}>Văn Hình - CN2307CLCA</Text>
+      <Text style={styles.location}>Mong muốn và định hướng của bạn là gì</Text>
+      <Text style={styles.location}>sau khi học xong môn này ?</Text>
     </View>
   )
 }
